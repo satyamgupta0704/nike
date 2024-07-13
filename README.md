@@ -18,8 +18,7 @@ First, make sure you have Node.js and npm installed on your machine. You can dow
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/satyamgupta0704/nike.git
     ```
 
 2. Install the dependencies:
