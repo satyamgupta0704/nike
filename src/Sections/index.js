@@ -1,19 +1,19 @@
-import CustomerReviews from "./CustomerReviews";
-import Footer from "./Footer";
 import Hero from "./Hero";
-import Nav from "./Nav";
 import PopularProducts from "./PopularProducts";
-import Services from "./Services";
-import Subscribe from "./Subscribe";
 import SuperQuality from "./SuperQuality";
+import Services from "./Services";
+import SpecialOffer from "./SpecialOffer";
+import CustomerReviews from "./CustomerReviews";
+import Subscribe from "./Subscribe";
+import Footer from "./Footer";
 
-export{
-    CustomerReviews,
-    Footer,
+export {
     Hero,
-    Nav,
     PopularProducts,
+    SuperQuality,
     Services,
+    SpecialOffer,
+    CustomerReviews,
     Subscribe,
-    SuperQuality
+    Footer
 }
