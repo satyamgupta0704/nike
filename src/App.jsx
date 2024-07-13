@@ -8,7 +8,7 @@ import {
   SpecialOffer,
   Subscribe,
   SuperQuality,
-} from "./Sections";
+} from "./sections";
 
 const App = () => {
   return (
