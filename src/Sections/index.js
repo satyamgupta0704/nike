@@ -1,4 +1,4 @@
-import Hero from "./Hero";
+import Hero from "src/sections/Hero";
 import PopularProducts from "./PopularProducts";
 import SuperQuality from "./SuperQuality";
 import Services from "./Services";
