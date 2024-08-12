@@ -56,7 +56,7 @@ import {
   SpecialOffer,
   Subscribe,
   SuperQuality,
-} from "./sections";
+} from "../src/Sections";
 
 // Common padding class for sections
 const paddingClass = 'padding'; 
